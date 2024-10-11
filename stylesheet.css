@@ -133,3 +133,10 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.flex_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  h2{margin:0;}
+}
